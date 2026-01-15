@@ -6,7 +6,7 @@ Programación Orientada A Objetos-UNIDAD2- Segundo B
 
 # Nombre del Programa: Servicio de Taxi 
 
-## 📌 Descripción
+## Descripción
 Este proyecto implementa un sistema básico de servicio de taxi, aplicando los principios fundamentales.
 El sistema permite solicitar una unidad de taxi y asignar el taxi disponible más cercano a la ubicación del usuario.
 
